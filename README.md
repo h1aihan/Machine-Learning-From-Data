@@ -1,2 +1,2 @@
 # Machine-Learning-From-Data
-RPI
+My Machine Learning Pratices
