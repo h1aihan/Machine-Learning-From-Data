@@ -1,0 +1,5 @@
+MLP training Algorithm
+Given a comma-seprated datafile, whose last column denotes the class, you have to train a neural network. First, the size of the input layer 
+d is determined by the number of attributes (other than the class), and the size of the output layer 
+p is determined by the number of classes. You should input the size of the hidden layer 
+m from the command line. You goal is to train a three-layer neural network, with a single hidden layer,
