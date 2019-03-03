@@ -1,2 +1,2 @@
 # Machine-Learning-From-Data
-My Machine Learning Projects and Pratices
+My Machine Learning Course Homeworks, Projects, and pratices 
