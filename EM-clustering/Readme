@@ -2,3 +2,4 @@ Expectation-Maximization Clustering
 Implements the Expectation-Maximization (EM) algorithm for clustering
 For EM initialization, you can start with a random assignment of points to clusters, or you can randomly select the initial means, and after assigning the points to the closest mean, you can compute the initial means, covariances and prior probabilities. For convergence testing, you can compare the sum of the euclidean distance between the old means and the new means over the 
 k clusters. If this distance is less than some small  ϵ you can stop the method. 
+data used here:http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Dmcourse/Assign5?action=download&upname=Concrete_Data_RNorm_Class_train.txt
