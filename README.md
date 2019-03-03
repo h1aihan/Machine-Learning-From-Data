@@ -1,2 +1,2 @@
 # Machine-Learning-From-Data
-My Machine Learning Pratices
+My Machine Learning Projects and Pratices
