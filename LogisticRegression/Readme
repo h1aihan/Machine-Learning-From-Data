@@ -1,0 +1,2 @@
+LogisticRegression-SGA algorithm
+Accuracy=numberof(yhat=y)/n
